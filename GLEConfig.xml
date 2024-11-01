@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2176" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Dazzling Diamonds Deluxe WLA" version="1.0.10" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="50,100,200,300,500,1000,2000,3000,5000,10000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,en_US,pt_BR,pl_PL,lt_LT"
+              skbPlatformVersion="1.4.0"
+              merchandisePrize="N"
+              stateful="N">
+
+            <!-- RGS COM -->
+            <!--<paymodel modelid="300-2176-001"  revealId="2176" revealVersionId="2176"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-001"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2176-001" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2176-001" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- BRZ -->
+            <paymodel modelid="300-2176-002"  revealId="2176" revealVersionId="2176"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-002"
+                      hibethold="35.00" lobethold="35.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2176-002" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2176-002" clienttype="HTML" configcode="PHLP"/>
+
+            <!-- VA -->
+            <!--<paymodel modelid="300-2176-003"  revealId="2176" revealVersionId="2176"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-003"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2176-003" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2176-003" clienttype="HTML" configcode="PHLP"/>-->
+
+            <!-- GA -->
+            <paymodel modelid="300-2176-004"  revealId="4368" revealVersionId="4368"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-004"
+                      hibethold="35.00" lobethold="35.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+                      
+            <paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2176-004" />
+            <paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2176-004" />
+
+            <!-- PLT -->
+            <paymodel modelid="300-2176-005"  revealId="4368" revealVersionId="4368"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-005"
+                      hibethold="24.00" lobethold="24.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+                      
+            <paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2176-005" />
+            <paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2176-005" />
+
+            <!-- KY -->
+            <paymodel modelid="300-2176-006"  revealId="4368" revealVersionId="4362"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-006"
+                      hibethold="24.00" lobethold="24.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+                      
+            <paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2176-006" />
+            <paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2176-006" />
+
+            <!-- RI -->
+            <paymodel modelid="300-2176-007"  revealId="4368" revealVersionId="4362"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-007"
+                      hibethold="15.00" lobethold="15.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+                      
+            <paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2176-007" />
+            <paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2176-007" />
+
+            <!-- LTR -->
+            <paymodel modelid="300-2176-008"  revealId="4368" revealVersionId="4362"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-008"
+                      hibethold="37.00" lobethold="37.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+                      
+            <paymodelConfig clienttype="HTML" configcode="IXML" modelid="300-2176-008" />
+            <paymodelConfig clienttype="HTML" configcode="PHLP" modelid="300-2176-008" />
+
+            <!-- ZER -->
+            <!--<paymodel modelid="300-2176-099"  revealId="2176" revealVersionId="2176"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Dazzling Diamonds Deluxe WLA : 300-2176-099"
+                      hibethold="35.00" lobethold="31.00"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="500"/>
+
+            <paymodelConfig modelid="300-2176-099" clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2176-099" clienttype="HTML" configcode="PHLP"/>    -->
+
+            <denom currencycode="BRL" amount="0.01,0.03"/>
+            <denom currencycode="PLN" amount="0.01,0.05"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+        </game>
+    </family>
